@@ -1,0 +1,6 @@
+{
+  "name": "Ludhiana Civic Hero",
+  "description": "A civic issue reporting web application where community members can upload photos of issues, which are auto-categorized and assessed by Gemini, view pins on an interactive neighborhood map, track progress, and view analytics on a dashboard.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
