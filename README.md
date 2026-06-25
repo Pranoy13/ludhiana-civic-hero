@@ -4,7 +4,7 @@
 
 Built for the **Vibe2Ship Hackathon** (Coding Ninjas × Google for Developers), using **Google AI Studio Build Mode** and the **Gemini API**.
 
-**Live App:** [https://ludhiana-civic-hero-393638649...heast1.run.app](https://ludhiana-civic-hero-393638649xxxxx.heast1.run.app) *(replace with your full deployed URL)*
+**Live App:** [https://ludhiana-civic-hero-393638649904.asia-southeast1.run.app](https://ludhiana-civic-hero-393638649904.asia-southeast1.run.app) 
 
 ---
 
